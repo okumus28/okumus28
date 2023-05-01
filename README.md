@@ -5,7 +5,7 @@ Merhaba Ben Bünyamin OKUMUŞ. Unity Oyun Geliştirici adayı olarak 1.5+ yıld�
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bunyaminokumus/)
-<a href="https://play.unity.com/u/okumus28/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/> </a> 
+<a href="https://play.unity.com/u/okumus28/" target="_blank" title="Unity Play" rel="noreferrer"> <img src="https://play.unity.com/public/images/logos/unity-play-logo.min.svg" alt="unity" width="100" /> </a> 
 
 # 💻 Tech Stack!:
 
