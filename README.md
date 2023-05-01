@@ -26,13 +26,14 @@ Merhaba Ben Bünyamin OKUMUŞ. Unity Oyun Geliştirici adayı olarak 1.5+ yıld�
 
 # 🚀 GAMES...
 
-<p align="left">  
+<p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.BamBam.DiceCrush" target="_blank" rel="noreferrer" title= "Dice Crush"> <img                                    src="https://play-lh.googleusercontent.com/Z1hxJwMDIcpNyai3_1nC0PTnwrPqPp6DJDX5oF_MAEWgbazbmaKZ9SHxAWjmNzM4oVGN=w240-h480-rw" alt="csharp" width="60"                    height="60"/> </a>
   <a href="https://play.google.com/store/apps/details?id=com.BamBamGames.MatchDefense" target="_blank" rel="noopener noreferrer" title="Match & Defense"> 
     <img src="https://play-lh.googleusercontent.com/R0J6czvtO_HLDg5OWo5IRg4GlVx905X8PLcjA4sn2tZA8L36FiH_JLU00CTqLNYmo7k=w240-h480-rw" alt="csharp" width="60"               height="60"/> 
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.BamBam.DefenderFantazia" target="_blank" rel="noreferrer" title= "Defender Fantazia"> <img                      src="https://play-lh.googleusercontent.com/6Rgll6yd4Puys0OsDnCnb6oSxrmnBEC-24sqReRF1QhLK1SOozBMtcfnBfGg7qLyjUxc=w240-h480-rw" alt="csharp" width="60"                    height="60"/> </a>
   <a href="https://play.google.com/store/apps/details?id=com.BamBam.MergedDices" target="_blank" rel="noreferrer" title= "Merged Dices"> <img                                src="https://play-lh.googleusercontent.com/c4aJ6WAI5zmDwHOKgNpTt7Th8gzyLnSGuc_wzkos78hx2fwTHqM1XgG-Q6zw8bI1UeL1=w240-h480-rw" alt="csharp" width="60"                    height="60"/> </a>
-  <a href="https://play.google.com/store/apps/details?id=com.BamBam.DiceCrush" target="_blank" rel="noreferrer" title= "Merged Dices"> <img                                src=https://play-lh.googleusercontent.com/Z1hxJwMDIcpNyai3_1nC0PTnwrPqPp6DJDX5oF_MAEWgbazbmaKZ9SHxAWjmNzM4oVGN=w240-h480-rw" alt="csharp" width="60"                    height="60"/> </a>
+  
 </p>
 
 
