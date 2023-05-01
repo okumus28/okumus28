@@ -36,8 +36,3 @@ Merhaba Ben Bünyamin OKUMUŞ. Unity Oyun Geliştirici adayı olarak 1.5+ yıld�
 </p>
 
 
-
----
-[![](https://visitcount.itsvg.in/api?id=Okumus28&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
