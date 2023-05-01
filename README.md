@@ -1,13 +1,13 @@
-# 💫 About Me:
+# 💫 HAKKIMDA!!!
 Merhaba Ben Bünyamin OKUMUŞ. Unity Oyun Geliştirici adayı olarak 1.5+ yıldır Unity 3D üzerinde kendimi geliştirmeye çalışıyorum. <br>Gelişmeye ve öğrenmeye sürekli açık bir aday olarak amacım Unity Oyun Geliştirici olarak tecrübe kazanmak ve oyun geliştirme endüstrisinde başarılı bir kariyer oluşturmaktır.<br>
 
 
-## 🌐 Socials:
+## 🌐 SOSYAL!!!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bunyaminokumus/)
 <a href="https://play.unity.com/u/okumus28/" target="_blank" title="Unity Play" rel="noreferrer"> <img src="https://play.unity.com/public/images/logos/unity-play-logo.min.svg" alt="unity" width="100" /> </a> 
 
-# 💻 Tech Stack!:
+# 💻 TEKNOLOJİLER...
 
 <p align="left">
   <a  target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40"               height="40"/> </a> 
